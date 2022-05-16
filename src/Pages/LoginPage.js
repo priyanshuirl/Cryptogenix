@@ -129,7 +129,7 @@ const LoginPage = () => {
                                             lineHeight: '2.25rem',
                                             fontWeight: 600,
                                         }}>
-                                            Ethereum
+                                            Cryptogenix
                                         </p>
                                     </div>
                                 </div>
